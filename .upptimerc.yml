@@ -4,8 +4,15 @@ repo: leetcode-pp-available
 sites:
   - name: leetcode-pp
     url: https://leetcode-solution.cn/
-  - name: ninety-one
-    url: https://leetcode-solution.cn/91
+  - name: leetcode-solution
+    url: https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/
+   - name: leetcode-solution
+    url: https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/
+   - name: daily featured
+    url: https://leetcode-solution-leetcode-pp.gitbook.io/mz-ri-yi-jm/readme
+   - name: lucifer's blog
+    url: https://lucifer.ren/blog/
+    
 status-website: # Status website (optional)
   cname: lucifer.ren # Custom domain CNAME
   baseUrl: /status
