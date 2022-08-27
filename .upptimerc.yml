@@ -6,8 +6,6 @@ sites:
     url: https://leetcode-solution.cn/
   - name: leetcode-solution
     url: https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/
-  - name: leetcode-solution
-    url: https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/
   - name: daily featured
     url: https://leetcode-solution-leetcode-pp.gitbook.io/mz-ri-yi-jm/readme
   - name: lucifer's blog
