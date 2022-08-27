@@ -7,6 +7,9 @@ sites:
     url: https://leetcode-solution.cn/
   - name: ninety-one
     url: https://leetcode-solution.cn/91
-
+status-website: # Status website (optional)
+  cname: lucifer.ren # Custom domain CNAME
+  baseUrl: /status
+  name: leetcode-pp status # Status website title
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
