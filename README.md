@@ -23,4 +23,4 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](<[https://lucifer.ren/leetcode-pp-available/](https://lucifer.ren/leetcode-pp-available/)>)
+[**Visit our status website →**](https://lucifer.ren/leetcode-pp-available/)
