@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/leetcode-solution.cn",
     "slug": "ninety-one",
     "status": "down",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
+    "time": 18,
+    "timeDay": 18,
+    "timeWeek": 18,
+    "timeMonth": 18,
+    "timeYear": 18,
     "dailyMinutesDown": {
-      "2022-08-27": 0
+      "2022-08-27": 7
     }
   }
 ]
