@@ -10,8 +10,3 @@ sites:
     url: https://leetcode-solution-leetcode-pp.gitbook.io/mz-ri-yi-jm/readme
   - name: lucifer's blog
     url: https://lucifer.ren/blog/
-    
-status-website: # Status website (optional)
-  cname: lucifer.ren # Custom domain CNAME
-  baseUrl: /status
-  name: leetcode-pp status # Status website title
