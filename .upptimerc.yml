@@ -10,3 +10,7 @@ sites:
     url: https://leetcode-solution-leetcode-pp.gitbook.io/mz-ri-yi-jm/readme
   - name: lucifer's blog
     url: https://lucifer.ren/blog/
+status-website:
+  cname: lucifer.ren
+  baseUrl: /leetcode-pp-available
+  name:  leetcode-pp status
