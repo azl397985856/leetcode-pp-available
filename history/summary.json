@@ -4,19 +4,19 @@
     "url": "https://leetcode-solution.cn/",
     "icon": "https://favicons.githubusercontent.com/leetcode-solution.cn",
     "slug": "leetcode-pp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 158,
-    "timeWeek": 281,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 315,
+    "timeDay": 293,
+    "timeWeek": 299,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-14": 0
+      "2022-09-14": 19
     }
   },
   {
