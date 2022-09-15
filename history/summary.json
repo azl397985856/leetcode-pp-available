@@ -60,19 +60,19 @@
     "url": "https://lucifer.ren/blog/",
     "icon": "https://favicons.githubusercontent.com/lucifer.ren",
     "slug": "lucifer-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 571,
-    "timeWeek": 657,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 840,
+    "timeDay": 630,
+    "timeWeek": 661,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 35
     }
   }
 ]
